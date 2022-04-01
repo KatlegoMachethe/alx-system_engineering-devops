@@ -11,3 +11,4 @@ The following files perform the following tasks
 7-everybody- ADDS execution permission to owner, group and other users without use of commas
 8-James_Bond- Givs no permission to the owner and group of the file "hello" but gives all permissions to other users
 9-Jon_Doe- Gives permissions -rwxr-x-wx to file "hello"
+10-mirror-permission- Copies the permission of one file to another
