@@ -1,1 +1,1 @@
-In this project we investigate the bash (Bourne again Shell), how to navigate in it and we also look at some of the commands used in bash and what they do. We will also look at how to manipulate files in bash and a few keyboard shortcuts.
+This project contains the Software Engineering content I have been learning and applying myself in during my enrolment in the ALX Software Engineering program.
