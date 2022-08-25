@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script configures Ubuntu server with the following IP  requirements:
+# localhost	127.0.0.2
+# facebook.com	8.8.8.8
+cp /etc/hosts hosts.new
+sed -i s/127.*$/127.0.0.2\\tlocalhost\\n8.8.8.8\\tfacebook.com/g hosts.new
+cp -f hosts.new /etc/hosts
