@@ -6,7 +6,7 @@ This project is in continuation of the <a href="https://github.com/KatlegoMachet
 2. `1-show_attached_IPs` is also a bash script that diaplays all active IPv4 IP addresses on the machine it is executed on.
 
 ## Resource
-- <a href="https://en.wikipedia.org/wiki/Localhost" target="_blank">What is local host?</a>
+- [What is local host?](https://en.wikipedia.org/wiki/Localhost){:target="\_blank"}
 - <a href="https://en.wikipedia.org/wiki/0.0.0.0" target="_blank">What is 0.0.0.0</a>
 - <a href="https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/" target="_blank">What is the host file</a>
 - <a href="https://www.thegeekstuff.com/2012/04/nc-command-examples/" target="_blank">Netcat examples</a>
